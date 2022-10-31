@@ -1,0 +1,306 @@
+,Unnamed: 0,label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+0,0,car,22,77,218,73,BMW_1.jpg,267,178
+1,1,main - text,137,8,121,58,BMW_1.jpg,267,178
+2,2,main - logo,0,10,49,24,BMW_1.jpg,267,178
+3,3,car,16,70,218,82,BMW_2.jpg,267,178
+4,4,main - logo,11,8,26,28,BMW_2.jpg,267,178
+5,5,main - text,75,7,182,40,BMW_2.jpg,267,178
+6,6,car,35,59,207,84,BMW_3.jpg,267,178
+7,7,main - text,9,17,176,24,BMW_3.jpg,267,178
+8,8,main - logo,219,145,48,22,BMW_3.jpg,267,178
+9,9,car,45,51,158,92,BMW_4.jpg,267,178
+10,10,main - logo,221,145,46,22,BMW_4.jpg,267,178
+11,11,main - text,9,8,249,69,BMW_4.jpg,267,178
+12,12,text,11,148,122,20,BMW_4.jpg,267,178
+13,13,car,61,46,149,80,BMW_5.jpg,267,178
+14,14,main - text,11,11,126,31,BMW_5.jpg,267,178
+15,15,text,12,130,181,39,BMW_5.jpg,267,178
+16,16,main - logo,228,136,27,30,BMW_5.jpg,267,178
+17,17,car,39,66,195,100,BMW_6.jpg,267,178
+18,18,main - text,11,10,146,42,BMW_6.jpg,267,178
+19,19,main - logo,227,11,40,21,BMW_6.jpg,267,178
+20,20,text,9,158,83,12,BMW_6.jpg,267,178
+21,21,car,98,47,138,64,BMW_7.jpg,267,178
+22,22,main - logo,231,143,25,28,BMW_7.jpg,267,178
+23,23,main - text,11,7,202,25,BMW_7.jpg,267,178
+24,24,car,7,31,214,85,BMW_7.png,267,178
+25,25,main - text,10,126,151,43,BMW_7.png,267,178
+26,26,main - logo,229,10,27,35,BMW_7.png,267,178
+27,27,car,32,65,210,60,BMW_8.jpg,267,178
+28,28,main - text,18,14,77,22,BMW_8.jpg,267,178
+29,29,main - logo,226,149,41,21,BMW_8.jpg,267,178
+30,30,car,40,52,187,99,BMW_9.jpg,267,178
+31,31,main - logo,11,7,25,28,BMW_9.jpg,267,178
+32,32,main - text,143,6,115,30,BMW_9.jpg,267,178
+33,33,car,44,34,194,100,Mercedes-Benz.jpg,267,178
+34,34,main - text,9,10,108,36,Mercedes-Benz.jpg,267,178
+35,35,main - logo,194,142,73,18,Mercedes-Benz.jpg,267,178
+36,36,text,8,163,176,13,Mercedes-Benz.jpg,267,178
+37,37,car,15,47,224,74,Mercedes-Benz__1.jpg,267,178
+38,38,main - text,11,9,112,21,Mercedes-Benz__1.jpg,267,178
+39,39,main - logo,197,144,70,19,Mercedes-Benz__1.jpg,267,178
+40,40,text,7,163,146,15,Mercedes-Benz__1.jpg,267,178
+41,41,car,13,67,237,73,Mercedes-Benz__2.jpg,267,178
+42,42,main - text,21,17,92,47,Mercedes-Benz__2.jpg,267,178
+43,43,main - logo,196,154,71,17,Mercedes-Benz__2.jpg,267,178
+44,44,car,78,40,162,97,Mercedes-Benz__3.jpg,267,178
+45,45,main - logo,197,142,70,23,Mercedes-Benz__3.jpg,267,178
+46,46,main - text,8,9,100,56,Mercedes-Benz__3.jpg,267,178
+47,47,car,43,49,187,84,Mercedes-Benz__4.jpg,267,178
+48,48,main - text,12,19,105,34,Mercedes-Benz__4.jpg,267,178
+49,49,main - logo,195,139,72,21,Mercedes-Benz__4.jpg,267,178
+50,50,text,9,164,255,14,Mercedes-Benz__4.jpg,267,178
+51,51,car,39,40,169,113,Mercedes-Benz__5.jpg,267,178
+52,52,main - text,9,12,201,24,Mercedes-Benz__5.jpg,267,178
+53,53,main - logo,197,144,70,18,Mercedes-Benz__5.jpg,267,178
+54,54,main - text,10,166,191,12,Mercedes-Benz__5.jpg,267,178
+55,55,car,49,58,154,96,Mercedes-Benz__6.jpg,267,178
+56,56,main - text,10,11,126,39,Mercedes-Benz__6.jpg,267,178
+57,57,main - logo,197,148,70,23,Mercedes-Benz__6.jpg,267,178
+58,58,car,42,40,188,108,Mercedes-Benz__7.jpg,267,178
+59,59,main - text,9,7,116,31,Mercedes-Benz__7.jpg,267,178
+60,60,main - logo,195,144,72,18,Mercedes-Benz__7.jpg,267,178
+61,61,car,16,64,244,77,Mercedes-Benz__8.jpg,267,178
+62,62,main - logo,196,145,68,20,Mercedes-Benz__8.jpg,267,178
+63,63,main - text,17,15,123,46,Mercedes-Benz__8.jpg,267,178
+64,64,car,47,49,128,91,Renault_9.jpg,267,178
+65,65,main - logo,211,92,39,70,Renault_9.jpg,267,178
+66,66,main - text,5,10,142,33,Renault_9.jpg,267,178
+67,67,text,67,150,141,18,Renault_9.jpg,267,178
+68,68,text,4,85,49,83,Renault_9.jpg,267,178
+69,69,car,61,18,191,76,VW_1.jpg,267,178
+70,70,main - logo,172,156,75,18,VW_1.jpg,267,178
+71,71,main - text,15,110,187,42,VW_1.jpg,267,178
+72,72,text,168,84,98,31,VW_1.jpg,267,178
+73,73,car,28,73,158,76,VW_2.jpg,267,178
+74,74,main - text,55,8,195,62,VW_2.jpg,267,178
+75,75,main - logo,143,151,109,23,VW_2.jpg,267,178
+76,76,car,33,72,125,60,VW_3.jpg,267,178
+77,77,main - text,6,14,211,29,VW_3.jpg,267,178
+78,78,main - logo,232,137,26,29,VW_3.jpg,267,178
+79,79,car,32,58,217,65,VW_4.jpg,267,178
+80,80,main - logo,239,143,20,21,VW_4.jpg,267,178
+81,81,main - text,8,15,117,23,VW_4.jpg,267,178
+82,82,text,7,140,253,35,VW_4.jpg,267,178
+83,83,car,24,67,134,71,VW_5.jpg,267,178
+84,84,main - text,181,11,79,21,VW_5.jpg,267,178
+85,85,main - logo,236,149,24,21,VW_5.jpg,267,178
+86,86,text,9,145,83,20,VW_5.jpg,267,178
+87,87,main - text,24,14,223,34,VW_6.jpg,267,178
+88,88,car,3,58,211,55,VW_6.jpg,267,178
+89,89,main - text,11,128,156,19,VW_6.jpg,267,178
+90,90,main - logo,182,127,76,19,VW_6.jpg,267,178
+91,91,car,20,74,229,51,VW_7.jpg,267,178
+92,92,main - text,144,20,107,36,VW_7.jpg,267,178
+93,93,main - logo,236,146,22,20,VW_7.jpg,267,178
+94,94,text,8,143,119,24,VW_7.jpg,267,178
+95,95,car,7,49,248,73,VW_8.jpg,267,178
+96,96,main - text,8,5,194,32,VW_8.jpg,267,178
+97,97,main - logo,226,147,34,25,VW_8.jpg,267,178
+98,98,main - text,14,13,174,89,VW_9.jpeg,267,178
+99,99,main - logo,235,137,18,20,VW_9.jpeg,267,178
+100,100,text,11,131,79,25,VW_9.jpeg,267,178
+101,101,car,74,72,125,69,BMW_10.jpg,267,178
+102,102,main - logo,226,138,30,32,BMW_10.jpg,267,178
+103,103,main - text,11,11,162,28,BMW_10.jpg,267,178
+104,104,text,10,162,169,10,BMW_10.jpg,267,178
+105,105,car,57,55,176,82,Ford_1.jpg,267,178
+106,106,main - text,4,8,117,75,Ford_1.jpg,267,178
+107,107,main - logo,206,155,61,18,Ford_1.jpg,267,178
+108,108,text,4,138,90,34,Ford_1.jpg,267,178
+109,109,car,52,51,123,99,Ford_2.jpg,267,178
+110,110,main - text,6,9,116,74,Ford_2.jpg,267,178
+111,111,main - logo,207,154,59,18,Ford_2.jpg,267,178
+112,112,text,4,142,86,29,Ford_2.jpg,267,178
+113,113,car,44,47,119,101,Ford_3.jpg,267,178
+114,114,main - text,13,10,122,23,Ford_3.jpg,267,178
+115,115,main - logo,218,148,33,30,Ford_3.jpg,267,178
+116,116,car,121,33,115,124,Ford_4.jpg,267,178
+117,117,main - text,11,17,103,91,Ford_4.jpg,267,178
+118,118,main - logo,167,8,92,46,Ford_4.jpg,267,178
+119,119,text,11,164,241,9,Ford_4.jpg,267,178
+120,120,car,51,55,199,81,Mercedes-Benz__9.jpg,267,178
+121,121,main - text,9,6,115,41,Mercedes-Benz__9.jpg,267,178
+122,122,main - logo,197,145,70,17,Mercedes-Benz__9.jpg,267,178
+123,123,text,8,164,167,14,Mercedes-Benz__9.jpg,267,178
+124,124,car,23,49,206,87,Mercedes-Benz__10.jpg,267,178
+125,125,main - text,13,16,109,28,Mercedes-Benz__10.jpg,267,178
+126,126,main - logo,194,142,73,21,Mercedes-Benz__10.jpg,267,178
+127,127,text,11,164,212,14,Mercedes-Benz__10.jpg,267,178
+128,128,car,43,49,187,84,Mercedes-Benz__11.jpg,267,178
+129,129,main - text,12,19,104,35,Mercedes-Benz__11.jpg,267,178
+130,130,main - logo,196,140,71,18,Mercedes-Benz__11.jpg,267,178
+131,131,text,12,165,255,13,Mercedes-Benz__11.jpg,267,178
+132,132,car,114,32,132,84,OPEL_1.jpg,267,178
+133,133,main - logo,228,143,38,35,OPEL_1.jpg,267,178
+134,134,main - text,8,120,214,35,OPEL_1.jpg,267,178
+135,135,text,7,160,156,18,OPEL_1.jpg,267,178
+136,136,car,84,50,133,95,Renault_1.jpg,267,178
+137,137,main - logo,234,99,26,40,Renault_1.jpg,267,178
+138,138,main - text,10,10,119,30,Renault_1.jpg,267,178
+139,139,text,218,10,42,29,Renault_1.jpg,267,178
+140,140,text,7,141,227,37,Renault_1.jpg,267,178
+141,141,car,71,41,144,90,Renault_2.jpg,267,178
+142,142,main - logo,238,89,24,44,Renault_2.jpg,267,178
+143,143,main - text,6,7,200,27,Renault_2.jpg,267,178
+144,144,text,5,112,116,58,Renault_2.jpg,267,178
+145,145,car,96,37,144,89,Renault_3.jpg,267,178
+146,146,main - text,9,9,137,32,Renault_3.jpg,267,178
+147,147,main - logo,236,101,22,39,Renault_3.jpg,267,178
+148,148,text,8,105,110,42,Renault_3.jpg,267,178
+149,149,text,8,150,255,26,Renault_3.jpg,267,178
+150,150,car,84,39,128,100,Renault_4.jpg,267,178
+151,151,main - text,8,9,178,20,Renault_4.jpg,267,178
+152,152,text,218,10,45,29,Renault_4.jpg,267,178
+153,153,text,5,108,86,33,Renault_4.jpg,267,178
+154,154,main - logo,234,120,28,51,Renault_4.jpg,267,178
+155,155,car,12,40,227,62,Renault_5.jpg,267,178
+156,156,text,8,9,194,22,Renault_5.jpg,267,178
+157,157,main - logo,235,103,24,39,Renault_5.jpg,267,178
+158,158,text,7,137,232,39,Renault_5.jpg,267,178
+159,159,car,67,52,181,92,Renault_6.jpg,267,178
+160,160,main - logo,231,10,23,30,Renault_6.jpg,267,178
+161,161,text,10,131,84,42,Renault_6.jpg,267,178
+162,162,main - text,9,8,121,14,Renault_6.jpg,267,178
+163,163,car,75,55,188,76,Renault_7.jpg,267,178
+164,164,main - logo,229,11,24,30,Renault_7.jpg,267,178
+165,165,main - text,10,8,163,25,Renault_7.jpg,267,178
+166,166,text,9,128,107,43,Renault_7.jpg,267,178
+167,167,car,49,43,136,79,Renault_8.jpg,267,178
+168,168,main - logo,204,57,51,62,Renault_8.jpg,267,178
+169,169,text,11,106,79,26,Renault_8.jpg,267,178
+170,170,text,11,136,193,37,Renault_8.jpg,267,178
+171,171,main - text,11,9,94,24,Renault_8.jpg,267,178
+172,172,car,101,19,123,92,Renault_10.jpg,267,178
+173,173,main - logo,235,57,30,57,Renault_10.jpg,267,178
+174,174,main - text,7,1,130,37,Renault_10.jpg,267,178
+175,175,text,0,120,267,57,Renault_10.jpg,267,178
+176,176,text,0,80,66,36,Renault_10.jpg,267,178
+177,177,car,42,60,163,113,skoda__1.jpg,267,178
+178,178,main - logo,221,5,46,51,skoda__1.jpg,267,178
+179,179,main - text,16,7,137,32,skoda__1.jpg,267,178
+180,180,car,21,43,158,122,skoda__2.jpg,267,178
+181,181,main - logo,229,21,29,52,skoda__2.jpg,267,178
+182,182,main - text,11,8,130,27,skoda__2.jpg,267,178
+183,183,car,14,41,130,87,skoda__3.jpg,267,178
+184,184,main - text,75,12,137,43,skoda__3.jpg,267,178
+185,185,main - logo,235,26,30,43,skoda__3.jpg,267,178
+186,186,text,81,138,173,34,skoda__3.jpg,267,178
+187,187,text,170,114,86,21,skoda__3.jpg,267,178
+188,188,car,35,73,178,57,skoda__4.jpg,267,178
+189,189,main - text,26,45,181,27,skoda__4.jpg,267,178
+190,190,main - logo,223,51,32,41,skoda__4.jpg,267,178
+191,191,text,25,119,207,20,skoda__4.jpg,267,178
+192,192,car,53,108,89,57,skoda__5.jpg,267,178
+193,193,main - logo,218,36,43,56,skoda__5.jpg,267,178
+194,194,main - text,27,20,133,43,skoda__5.jpg,267,178
+195,195,car,75,29,138,96,skoda__6.jpg,267,178
+196,196,main - logo,228,22,35,56,skoda__6.jpg,267,178
+197,197,text,6,137,210,33,skoda__6.jpg,267,178
+198,198,main - text,7,26,57,63,skoda__6.jpg,267,178
+199,199,car,24,64,163,90,Toyota__1.jpg,267,178
+200,200,main - logo,229,0,35,62,Toyota__1.jpg,267,178
+201,201,main - text,7,5,146,28,Toyota__1.jpg,267,178
+202,202,main - text,259,41,230,93,Citron__1.jpeg,617,347
+203,203,main - logo,512,0,91,61,Citron__1.jpeg,617,347
+204,204,car,129,151,335,193,Citron__1.jpeg,617,347
+205,205,car,130,29,156,100,Dacia__1.jpg,327,154
+206,206,main - logo,296,2,24,21,Dacia__1.jpg,327,154
+207,207,main - text,9,29,117,51,Dacia__1.jpg,327,154
+208,208,text,9,87,83,22,Dacia__1.jpg,327,154
+209,209,car,136,27,162,94,Dacia__2.jpg,327,154
+210,210,main - logo,296,5,24,17,Dacia__2.jpg,327,154
+211,211,main - text,9,28,124,52,Dacia__2.jpg,327,154
+212,212,text,10,87,86,24,Dacia__2.jpg,327,154
+213,213,car,18,47,350,52,Dacia__3.jpg,369,137
+214,214,main - logo,290,7,70,18,Dacia__3.jpg,369,137
+215,215,car,38,17,137,90,jaguar__1.jpg,337,150
+216,216,main - logo,280,7,51,28,jaguar__1.jpg,337,150
+217,217,main - text,210,59,89,26,jaguar__1.jpg,337,150
+218,218,text,10,116,318,17,jaguar__1.jpg,337,150
+219,219,car,100,24,119,107,jaguar__3.jpg,282,179
+220,220,main - text,8,10,100,43,jaguar__3.jpg,282,179
+221,221,main - logo,240,148,34,24,jaguar__3.jpg,282,179
+222,222,text,10,154,133,22,jaguar__3.jpg,282,179
+223,223,car,54,130,440,208,mazda.jpg,636,450
+224,224,main - text,195,77,348,31,mazda.jpg,636,450
+225,225,main - logo,40,64,51,47,mazda.jpg,636,450
+226,226,text,7,386,618,48,mazda.jpg,636,450
+227,227,car,346,797,1267,715,mazda__2.jpg,2432,1724
+228,228,main - logo,167,180,159,152,mazda__2.jpg,2432,1724
+229,229,main - text,773,200,1575,359,mazda__2.jpg,2432,1724
+230,230,text,1371,734,973,351,mazda__2.jpg,2432,1724
+231,231,text,1096,1508,1232,175,mazda__2.jpg,2432,1724
+232,232,car,44,71,130,67,mazda__3.jpg,270,186
+233,233,main - logo,217,15,39,31,mazda__3.jpg,270,186
+234,234,main - text,15,13,157,42,mazda__3.jpg,270,186
+235,235,text,15,146,240,35,mazda__3.jpg,270,186
+236,236,car,449,192,503,264,nissan__1.jpg,1024,724
+237,237,main - logo,878,1,102,129,nissan__1.jpg,1024,724
+238,238,main - text,253,328,112,99,nissan__1.jpg,1024,724
+239,239,text,734,642,277,76,nissan__1.jpg,1024,724
+240,240,car,27,142,374,117,nissan__2.jpg,420,280
+241,241,main - logo,323,0,73,91,nissan__2.jpg,420,280
+242,242,main - text,50,6,182,127,nissan__2.jpg,420,280
+243,243,car,118,218,295,53,nissan__3.jpg,420,280
+244,244,main - text,235,7,165,69,nissan__3.jpg,420,280
+245,245,main - logo,17,10,70,52,nissan__3.jpg,420,280
+246,246,car,0,66,116,83,VOLVO __1.jpg,300,160
+247,247,main - text,187,31,102,21,VOLVO __1.jpg,300,160
+248,248,main - logo,214,5,50,11,VOLVO __1.jpg,300,160
+249,249,car,0,0,410,321,VOLVO __2.jpg,620,350
+250,250,main - text,431,107,179,104,VOLVO __2.jpg,620,350
+251,251,main - logo,545,26,67,67,VOLVO __2.jpg,620,350
+252,252,car,24,58,212,106,aiways_2.jpg,267,178
+253,253,main - logo,74,9,35,10,aiways_2.jpg,267,178
+254,254,main - text,109,9,86,31,aiways_2.jpg,267,178
+255,255,car,10,11,240,89,Aixam_1.jpg,267,178
+256,256,main - logo,101,23,60,67,Aixam_1.jpg,267,178
+257,257,main - text,29,140,215,32,Aixam_1.jpg,267,178
+258,258,car,32,60,137,70,Daihatsu_1.jpeg,267,178
+259,259,main - logo,179,2,86,19,Daihatsu_1.jpeg,267,178
+260,260,main - text,11,3,116,21,Daihatsu_1.jpeg,267,178
+261,261,text,181,122,82,18,Daihatsu_1.jpeg,267,178
+262,262,car,78,77,169,70,Dodge_1.jpg,267,178
+263,263,main - text,62,33,199,31,Dodge_1.jpg,267,178
+264,264,main - logo,167,6,98,17,Dodge_1.jpg,267,178
+265,265,text,45,161,218,15,Dodge_1.jpg,267,178
+266,266,main - logo,220,17,31,18,Donkervoort_1.jpg,267,178
+267,267,main - text,16,22,130,69,Donkervoort_1.jpg,267,178
+268,268,car,62,103,168,60,Donkervoort_1.jpg,267,178
+269,269,car,4,66,251,82,Ferrari_1.jpg,259,178
+270,270,main - logo,5,6,25,25,Ferrari_1.jpg,259,178
+271,271,main - text,6,147,201,22,Ferrari_1.jpg,259,178
+272,272,text,64,11,57,15,Ferrari_1.jpg,259,178
+273,273,car,20,34,227,82,lamborghini_1.jpg,267,178
+274,274,main - logo,198,150,61,23,lamborghini_1.jpg,267,178
+275,275,main - text,17,9,99,17,lamborghini_1.jpg,267,178
+276,276,car,113,22,152,104,Lexus_1.jpg,267,178
+277,277,main - logo,214,152,43,16,Lexus_1.jpg,267,178
+278,278,main - text,22,16,82,63,Lexus_1.jpg,267,178
+279,279,car,13,63,154,67,opel_n.jpg,267,178
+280,280,main - text,14,22,74,23,opel_n.jpg,267,178
+281,281,main - logo,235,151,23,25,opel_n.jpg,267,178
+282,282,text,11,144,200,31,opel_n.jpg,267,178
+283,283,car,81,46,156,61,suzuki_1.jpg,267,169
+284,284,main - text,14,11,70,41,suzuki_1.jpg,267,169
+285,285,main - logo,204,0,32,35,suzuki_1.jpg,267,169
+286,286,text,6,119,256,46,suzuki_1.jpg,267,169
+287,287,car,93,44,143,85,Suzuki_2.jpeg,267,178
+288,288,main - logo,199,151,25,27,Suzuki_2.jpeg,267,178
+289,289,main - text,10,0,106,13,Suzuki_2.jpeg,267,178
+290,290,text,13,129,102,49,Suzuki_2.jpeg,267,178
+291,291,car,114,67,139,80,suzuki_3.jpg,267,178
+292,292,main - text,10,54,84,19,suzuki_3.jpg,267,178
+293,293,main - logo,208,1,59,16,suzuki_3.jpg,267,178
+294,294,text,5,146,241,27,suzuki_3.jpg,267,178
+295,295,car,32,92,148,83,suzuki_5.jpg,267,178
+296,296,main - logo,4,1,253,35,suzuki_5.jpg,267,178
+297,297,main - text,107,38,50,15,suzuki_5.jpg,267,178
+298,298,car,23,46,206,88,Tesla-Leasing-1200x833.jpg,267,178
+299,299,main - logo,14,8,96,16,Tesla-Leasing-1200x833.jpg,267,178
+300,300,main - text,176,131,78,25,Tesla-Leasing-1200x833.jpg,267,178
+301,301,car,16,69,128,75,Aiways_1.jpg,267,178
+302,302,main - logo,229,2,36,25,Aiways_1.jpg,267,178
+303,303,main - text,9,7,107,23,Aiways_1.jpg,267,178
+304,304,text,9,38,239,23,Aiways_1.jpg,267,178
