@@ -30,11 +30,11 @@ if __name__ == "__main__":
     search_keys = list(set(["sweet cat"]))
 
     #Parameters
-    number_of_images = 4              # Desired number of images
+    number_of_images = 1000              # Desired number of images
     headless = False                     # True = No Chrome GUI
     min_resolution = (0, 0)             # Minimum desired image resolution
     max_resolution = (9999, 9999)       # Maximum desired image resolution
-    max_missed = 1000                   # Max number of failed images before exit
+    max_missed = 20                     # Max number of failed images before exit
     number_of_workers = 1               # Number of "workers" used
     keep_filenames = False              # Keep original URL image filenames
 
